@@ -1,6 +1,6 @@
-<h2 align="center">My projects</h2>
+<h1 align="center">My projects</h1>
 
 
-<h4 align="left">
+<h2 align="left">
   Delta Shift
-</h4>
+</h2>
