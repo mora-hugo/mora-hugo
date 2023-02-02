@@ -12,7 +12,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, veli
 ![Project image 1](https://via.placeholder.com/150x150)
 
 This project aims to support a large number of connections in a multiplayer online game and is divided into 2 main parts and group :
- - Integration of the ECS FLEX - 5 members
+ - Integration of the ECS FLECS - 5 members
  - A publish/subscribe transport protocol - 3 members
  
  On our side, we are in the process of creating a broker in RUST. This one could communicate with Unreal and ECS FLEX.
