@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, veli
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, velit vel vulputate aliquet, metus metus varius quam, id suscipit libero dolor sit amet libero. 
 
-[Link to project 2](https://example.com))
+[Link to project 2](https://example.com)
 
 ---
 
@@ -26,4 +26,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, veli
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, velit vel vulputate aliquet, metus metus varius quam, id suscipit libero dolor sit amet libero. 
 
-[Link to project 3](https://example.com))
+[Link to project 3](https://example.com)
