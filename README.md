@@ -1,5 +1,12 @@
 ## My projets
 
+# DroidRush
+
+![Project image 2](https://via.placeholder.com/150x150)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, velit vel vulputate aliquet, metus metus varius quam, id suscipit libero dolor sit amet libero. 
+
+
 # Innovative replication technology
 ## 8 members - In progress
 ![Project image 1](https://via.placeholder.com/150x150)
@@ -12,7 +19,7 @@ This project aims to support a large number of connections in a multiplayer onli
  
 ---
 
-# Project 2
+# DroidRush
 
 ![Project image 2](https://via.placeholder.com/150x150)
 
