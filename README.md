@@ -19,7 +19,8 @@ This project aims to support a large number of connections in a multiplayer onli
 DroidRush is a cooperative multiplayer game where 2 players must discreetly escape from a laboratory. Players can help each other with items like a whistle or an invisibility hat.
 
 ![image](https://user-images.githubusercontent.com/100521440/216778720-13324ad6-e47a-4ebb-a094-db7c9905ac8c.png)
-![image](https://user-images.githubusercontent.com/100521440/216778868-0626d29c-7a00-42ca-9de6-48a751a6ac9e.png)
+![image](https://user-images.githubusercontent.com/100521440/216778948-f7b34506-4f57-46b6-a13d-83eaded2d04a.png)
+
 
 
 
