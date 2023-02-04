@@ -2,7 +2,7 @@
 
 # DroidRush
 
-![Project image 2](https://via.placeholder.com/150x150)
+![image](https://user-images.githubusercontent.com/100521440/216778122-5b59acef-f394-4935-ae5e-9f12ffe68b67.png)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam hendrerit, velit vel vulputate aliquet, metus metus varius quam, id suscipit libero dolor sit amet libero. 
 
