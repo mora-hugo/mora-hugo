@@ -1,7 +1,7 @@
-My projets
+#My projets
 
-# Innovative replication technology
-## 8 members - In progress
+## Innovative replication technology
+### 8 members - In progress
 ![Project image 1](https://via.placeholder.com/150x150)
 
 This project aims to support a large number of connections in a multiplayer online game and is divided into 2 main parts and group :
@@ -20,9 +20,6 @@ DroidRush is a cooperative multiplayer game where 2 players must discreetly esca
 
 ![image](https://user-images.githubusercontent.com/100521440/216778720-13324ad6-e47a-4ebb-a094-db7c9905ac8c.png)
 ![image](https://user-images.githubusercontent.com/100521440/216778948-f7b34506-4f57-46b6-a13d-83eaded2d04a.png)
-
-
-
 
 
 [Link to project 2](https://example.com)
