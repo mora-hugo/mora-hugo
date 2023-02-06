@@ -72,7 +72,7 @@ Currently, we use the null subsystem but it could use STEAM or epic game later
 
 This game was made during the Ludum Dare 52 where the theme was : **Harvest**
 
-Farm them All is an agar.io like where you drive tractors. 
+Farm Them All is an agar.io like where you drive tractors. 
 The goal is to harvest plantations in order to become more powerful and beat your opponents. It is possible to upgrade your tractor with automatic turrets or missiles. 
 
 In this project, I created the system of breakable structures as well as the plantings. I could also work on the improvements of the tractors like the automatic turrets (EQS) or the missiles.
