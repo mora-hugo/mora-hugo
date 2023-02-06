@@ -80,7 +80,7 @@ Klems is a multiplayer game that allows to 4 players can fight each other with a
 
 <img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="300" height="200" />
 
-In this project, I was able to create mainly the weapon system or the session search system with private sessions (including passwords, filters, etc...).
+In this project, I was able to create mainly the combat system or the session search system with private sessions (including passwords, filters, etc...).
 Currently, we use the null subsystem but it could use the Steam or EOS subsystem later.
 
 [Link to the itch.io](https://zankanotachi.itch.io/klems)
