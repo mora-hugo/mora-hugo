@@ -53,7 +53,7 @@ DroidRush is a cooperative multiplayer game where 2 players must discreetly esca
 ![image](https://user-images.githubusercontent.com/100521440/216778948-f7b34506-4f57-46b6-a13d-83eaded2d04a.png)
 
 Each player also has a special skill like a teleporter or a drone.
-Currently, we use the null subsystem but it could use STEAM or epic game later.
+Currently, we use the null subsystem but it could use the Steam or EOS subsystem laterr.
 
 In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems.
 
@@ -78,7 +78,7 @@ Klems is a multiplayer game that allows to 4 players can fight each other with a
 <img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="300" height="200" />
 
 In this project, I was able to create mainly the weapon system or the session search system with private sessions (including passwords, filters, etc...)
-Currently, we use the null subsystem but it could use STEAM or epic game later.
+Currently, we use the null subsystem but it could use the Steam or EOS subsystem later.
 
 [Link to the itch.io](https://zankanotachi.itch.io/klems)
 
