@@ -41,10 +41,11 @@ In this project, I was able to create an interaction system with the possibility
 ---
 
 
+
 ## Klems
 ### 3 members - Finished
 #### Tools : Unreal Engine 5, C++
-<img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="400" height="300" />
+<img src="https://user-images.githubusercontent.com/100521440/216897385-1b79a6d5-d33d-402e-be76-110b82c6b6ae.png"  width="400" height="300" />
 
 This game was made during a 7 days game jam where the theme was : **Infection**
 
