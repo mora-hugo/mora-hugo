@@ -45,7 +45,7 @@ In this project, I was able to create an interaction system with the possibility
 ## Klems
 ### 3 members - Finished
 #### Tools : Unreal Engine 5, C++
-<img src="https://user-images.githubusercontent.com/100521440/216897385-1b79a6d5-d33d-402e-be76-110b82c6b6ae.png"  width="400" height="280" /><img src="https://user-images.githubusercontent.com/100521440/216897498-31acc7e6-0808-41c5-b060-ddf79658103f.png"  width="400" height="280" />
+<img src="https://user-images.githubusercontent.com/100521440/216897498-31acc7e6-0808-41c5-b060-ddf79658103f.png"  width="300" height="200" align="left"/><img src="https://user-images.githubusercontent.com/100521440/216897385-1b79a6d5-d33d-402e-be76-110b82c6b6ae.png"  width="300" height="200" align="right"/>
 
 This game was made during a 7 days game jam where the theme was : **Infection**
 
