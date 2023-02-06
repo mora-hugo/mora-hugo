@@ -1,5 +1,7 @@
 #My projets
 
+
+ 
 ## Innovative replication technology
 ### 8 members - In progress
 #### Tools : Unreal Engine 5, C++, Rust
@@ -12,7 +14,11 @@ This project aims to support a large number of connections in a multiplayer onli
  On our side, we are in the process of creating a broker in RUST. This one could communicate with Unreal and ECS FLEX.
  Tools : Unreal Engine 5, C++
  
+ 
+ 
 ---
+
+
 
 ## DroidRush
 ### 8 members - Finished
@@ -26,21 +32,27 @@ DroidRush is a cooperative multiplayer game where 2 players must discreetly esca
 
 Currently, we use the null subsystem but it could use STEAM or epic game later
 
-In this project, I was able to create an interaction system with the possibility to drop an item and a session search system
+In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems
 
 [Link to project 2](https://example.com)
 
+
+
 ---
+
+
 
 ## Klems
 ### 3 members - Finished
 #### Tools : Unreal Engine 5, C++
-![Project image 3](https://user-images.githubusercontent.com/100521440/216895649-e9a59cd0-c2b6-48b4-b52f-b9da9565ec30.png)
+<img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="400" height="325" />
 
 This game was made during a 7 days game jam where the theme was : **Infection**
 
 Klems is a multiplayer game that allows to 4 players can fight each other with a weapon in an arena that becomes infected little by little. If you are infected, you become a zombie that can only attack in close combat.
 
 <img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="300" height="200" />
+
+In this project, I was able to create mainly the weapon system or the session search system with private sessions (including passwords, filters, etc...)
 
 [Link to itch.io](https://zankanotachi.itch.io/klems)
