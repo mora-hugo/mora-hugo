@@ -124,7 +124,8 @@ This game was made during the Ludum Dare 51 where the theme was : **Every 10 sec
 Delta Shift is a racing game where every 10 seconds, gravity changes! It is possible to perform many movements such as running, jumping, climbing, sliding or running on the walls.
 There are also obstacles like lasers, spikes or crushers.
 
-![image](https://user-images.githubusercontent.com/100521440/216901724-5a9f8812-fb5e-49c2-868a-2c425beecf7a.png) ![image](https://user-images.githubusercontent.com/100521440/216903265-18bba665-a06c-4ac8-94e4-67bd078cfcd1.png)
+![image](https://user-images.githubusercontent.com/100521440/216901724-5a9f8812-fb5e-49c2-868a-2c425beecf7a.png) ![image](https://user-images.githubusercontent.com/100521440/216903561-09354a52-7f6b-45a8-a3fc-7b2ae655e041.png)
+
 
 I was able to do some moves like the slide but especially the gravity change mechanics. I was also able to create the ghost of the player who reproduces the movements of his best performances
 
