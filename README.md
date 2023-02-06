@@ -146,7 +146,7 @@ In this project, I mainly created the building system.
 This game was made during the Ludum Dare 51 where the theme was : **Every 10 seconds**.
 
 
-Delta Shift is a racing game where every 10 seconds, gravity changes! It is possible to perform many movements such as running, jumping, climbing, sliding or running on the walls.
+Delta Shift is a racing game where every 10 seconds, the gravity changes! It is possible to perform many movements such as running, jumping, climbing, sliding or running on the walls.
 There are also obstacles like lasers, spikes or crushers.
 
 ![image](https://user-images.githubusercontent.com/100521440/216901724-5a9f8812-fb5e-49c2-868a-2c425beecf7a.png) ![image](https://user-images.githubusercontent.com/100521440/216903561-09354a52-7f6b-45a8-a3fc-7b2ae655e041.png)
