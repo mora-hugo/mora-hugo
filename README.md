@@ -53,7 +53,6 @@ DroidRush is a cooperative multiplayer game where 2 players must discreetly esca
 ![image](https://user-images.githubusercontent.com/100521440/216778948-f7b34506-4f57-46b6-a13d-83eaded2d04a.png)
 
 Each player also has a special skill like a teleporter or a drone
-
 Currently, we use the null subsystem but it could use STEAM or epic game later
 
 In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems
