@@ -52,10 +52,10 @@ DroidRush is a cooperative multiplayer game where 2 players must discreetly esca
 ![image](https://user-images.githubusercontent.com/100521440/216778720-13324ad6-e47a-4ebb-a094-db7c9905ac8c.png)
 ![image](https://user-images.githubusercontent.com/100521440/216778948-f7b34506-4f57-46b6-a13d-83eaded2d04a.png)
 
-Each player also has a special skill like a teleporter or a drone
-Currently, we use the null subsystem but it could use STEAM or epic game later
+Each player also has a special skill like a teleporter or a drone.
+Currently, we use the null subsystem but it could use STEAM or epic game later.
 
-In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems
+In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems.
 
 [Link to the itch.io](https://example.com)
 
@@ -71,14 +71,14 @@ In this project, I was able to create an interaction system with the possibility
 <img src="https://user-images.githubusercontent.com/100521440/216897498-31acc7e6-0808-41c5-b060-ddf79658103f.png"  width="300" height="200"/>
 <img src="https://user-images.githubusercontent.com/100521440/216897385-1b79a6d5-d33d-402e-be76-110b82c6b6ae.png"  width="300" height="200"/>
 
-This game was made during a 7 days game jam where the theme was : **Infection**
+This game was made during a 7 days game jam where the theme was : **Infection**.
 
 Klems is a multiplayer game that allows to 4 players can fight each other with a weapon in an arena that becomes infected little by little. If you are infected, you become a zombie that can only attack in close combat.
 
 <img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="300" height="200" />
 
 In this project, I was able to create mainly the weapon system or the session search system with private sessions (including passwords, filters, etc...)
-Currently, we use the null subsystem but it could use STEAM or epic game later
+Currently, we use the null subsystem but it could use STEAM or epic game later.
 
 [Link to the itch.io](https://zankanotachi.itch.io/klems)
 
@@ -93,7 +93,7 @@ Currently, we use the null subsystem but it could use STEAM or epic game later
 #### Tools : Unreal Engine 5, C++
 ![image](https://user-images.githubusercontent.com/100521440/216898925-1b812ae2-c4f3-4ed2-86ee-513ae0e71a2a.png)
 
-This game was made during the Ludum Dare 52 where the theme was : **Harvest**
+This game was made during the Ludum Dare 52 where the theme was : **Harvest**.
 
 Farm Them All is an agar.io like where you drive tractors. 
 The goal is to harvest plantations in order to become more powerful and beat your opponents. It is possible to upgrade your tractor with automatic turrets or missiles. 
@@ -114,8 +114,8 @@ In this project, I created the system of breakable structures as well as the pla
 
 ![image](https://user-images.githubusercontent.com/100521440/216900946-fa376ddb-f4d8-4a1b-b9d7-31ccef9472e5.png)
 
-This game was made during the Spring WonderJam 2022 where the theme was : **It's not a glitch, it's a feature**
-Our constraints was :  "physics-based", "versus" and "course" which was not required but we added in a game mode
+This game was made during the Spring WonderJam 2022 where the theme was : **It's not a glitch, it's a feature**.
+Our constraints was :  "physics-based", "versus" and "course" which was not required but we added in a game mode.
 
 In this crazy game, two players must fight to knock the opponent! Indeed, each player has a stone launcher and constructions to protect himself.
 In order to make the experience more fun, we made the noises ourselves and did some cinematics. 
