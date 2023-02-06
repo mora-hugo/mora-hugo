@@ -56,7 +56,7 @@ Currently, we use the null subsystem but it could use STEAM or epic game later
 
 In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems
 
-[Link to project 2](https://example.com)
+[Link to the itch.io](https://example.com)
 
 
 
