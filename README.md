@@ -14,7 +14,8 @@
 ## <a name="ubisoft"></a>Ubisoft Game Lab Competition
 ### 8 members - In progress
 #### Tools : Unreal Engine 5, C++
-![image](https://user-images.githubusercontent.com/100521440/216907647-2d16119e-8f1c-4995-9bd1-c0a6230684a4.png)
+![image](https://user-images.githubusercontent.com/100521440/216907714-666e3e97-23fc-4341-959d-4c0f6707df69.png)
+
 
 
 I participate to the 13th edition of the Ubisoft Game Lab Competition
