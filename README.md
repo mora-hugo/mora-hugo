@@ -10,10 +10,12 @@ This project aims to support a large number of connections in a multiplayer onli
  
  On our side, we are in the process of creating a broker in RUST. This one could communicate with Unreal and ECS FLEX.
  Tools : Unreal Engine 5, C++
+ 
 ---
 
 # DroidRush
 ## 8 members - Finished
+### Tools : Unreal Engine 5, C++
 ![image](https://user-images.githubusercontent.com/100521440/216778122-5b59acef-f394-4935-ae5e-9f12ffe68b67.png)
 
 DroidRush is a cooperative multiplayer game where 2 players must discreetly escape from a laboratory. Players can help each other with items like a whistle or an invisibility hat.
@@ -21,6 +23,9 @@ DroidRush is a cooperative multiplayer game where 2 players must discreetly esca
 ![image](https://user-images.githubusercontent.com/100521440/216778720-13324ad6-e47a-4ebb-a094-db7c9905ac8c.png)
 ![image](https://user-images.githubusercontent.com/100521440/216778948-f7b34506-4f57-46b6-a13d-83eaded2d04a.png)
 
+Currently, we use the null subsystem but it could use STEAM or epic game later
+
+In this project, I was able to create an interaction system with the possibility to drop an item and a session search system
 
 [Link to project 2](https://example.com)
 
