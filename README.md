@@ -127,7 +127,7 @@ In order to make the experience more fun, we made the noises ourselves and did s
 
 The theme has been implemented in the construction mechanics where you can glitch the constructions together to make impressive movements.
 
-In this project, I mainly created the building system.
+In this project, I mainly created the building system and the "course" gamemode.
 
 [Link to the itch.io](https://bako52.itch.io/zizou-queen-piafs)
 
