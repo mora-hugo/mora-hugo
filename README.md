@@ -88,13 +88,17 @@ In this project, I created the system of breakable structures as well as the pla
 ## Zizou, Queens & Piafs
 ### 7 members - Finished
 #### Tools : Unreal Engine 5
-![image](https://user-images.githubusercontent.com/100521440/216898925-1b812ae2-c4f3-4ed2-86ee-513ae0e71a2a.png)
+
+![image](https://user-images.githubusercontent.com/100521440/216900946-fa376ddb-f4d8-4a1b-b9d7-31ccef9472e5.png)
 
 This game was made during the Spring WonderJam 2022 where the theme was : **It's not a glitch, it's a feature**
 Our constraints was :  "physics-based", "versus" and "course" which was not required but we added in a game mode
 
 In this crazy game, two players must fight to knock the opponent! Indeed, each player has a stone launcher and constructions to protect himself.
 In order to make the experience more fun, we made the noises ourselves and did some cinematics. 
+
+![image](https://user-images.githubusercontent.com/100521440/216900805-9bb46aba-704e-4903-9983-2f480211d996.png)
+
 
 The theme has been implemented in the construction mechanics where you can glitch the constructions together to make impressive movements
 
