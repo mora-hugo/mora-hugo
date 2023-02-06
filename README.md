@@ -1,11 +1,11 @@
 # My projets
 
-#### [Innovative replication technology](#replication)
-#### [DroidRush](#droidrush)
-#### [Klems](#klems)
-#### [Farm Them All](#farmthemall)
-#### [Zizou, Queens & Piafs](#zizou)
-#### [Deltashift](#deltashift)
+#### [Innovative replication technology ](#replication)
+#### [DroidRush ](#droidrush)
+#### [Klems ](#klems)
+#### [Farm Them All ](#farmthemall)
+#### [Zizou, Queens & Piafs ](#zizou)
+#### [Deltashift ](#deltashift)
 
  ---
  
