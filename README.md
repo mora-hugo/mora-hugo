@@ -138,7 +138,7 @@ There are also obstacles like lasers, spikes or crushers.
 ![image](https://user-images.githubusercontent.com/100521440/216901724-5a9f8812-fb5e-49c2-868a-2c425beecf7a.png) ![image](https://user-images.githubusercontent.com/100521440/216903561-09354a52-7f6b-45a8-a3fc-7b2ae655e041.png)
 
 
-I was able to do some moves like the slide but especially the gravity change mechanics. I was also able to create the ghost of the player who reproduces the movements of his best performances
+In this project, I did some moves like the slide but especially the gravity change mechanics. I was also able to create the ghost of the player who reproduces the movements of his best performances
 
 
 
