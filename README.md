@@ -41,6 +41,6 @@ This game was made during a 7 days game jam where the theme was : **Infection**
 
 Klems is a multiplayer game that allows to 4 players can fight each other with a weapon in an arena that becomes infected little by little. If you are infected, you become a zombie that can only attack in close combat.
 
-<img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="300" height="250" />
+<img src="https://user-images.githubusercontent.com/100521440/216896241-0a6347de-8046-4d37-9c85-9dcb0af3828a.png"  width="300" height="200" />
 
 [Link to itch.io](https://zankanotachi.itch.io/klems)
