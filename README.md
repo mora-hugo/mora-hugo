@@ -12,7 +12,7 @@ This project aims to support a large number of connections in a multiplayer onli
  - A publish/subscribe transport protocol - 3 members
  
  On our side, we are in the process of creating a broker in RUST. This one could communicate with Unreal and ECS FLEX.
- Tools : Unreal Engine 5, C++
+
  
  
  
@@ -105,4 +105,31 @@ The theme has been implemented in the construction mechanics where you can glitc
 In this project, I mainly created the building system
 
 [Link to the itch.io](https://bako52.itch.io/zizou-queen-piafs)
+
+
+
+---
+
+
+
+## Delta Shift
+### 10 members - Finished
+#### Tools : Unreal Engine 5
+
+![image](https://user-images.githubusercontent.com/100521440/216901652-0ea8ca8d-3456-42da-8e14-71a32919898e.png)
+
+This game was made during the Ludum Dare 51 where the theme was : **Every 10 seconds**
+
+
+Delta Shift is a racing game where every 10 seconds, gravity changes! It is possible to perform many movements such as running, jumping, climbing, sliding or running on the walls.
+There are also obstacles like lasers, spikes or crushers.
+
+![image](https://user-images.githubusercontent.com/100521440/216901724-5a9f8812-fb5e-49c2-868a-2c425beecf7a.png) ![image](https://user-images.githubusercontent.com/100521440/216903265-18bba665-a06c-4ac8-94e4-67bd078cfcd1.png)
+
+I was able to do some moves like the slide but especially the gravity change mechanics. I was also able to create the ghost of the player who reproduces the movements of his best performances
+
+
+
+
+[Link to the Ludum Dare page](https://ldjam.com/events/ludum-dare/51/delta-shift)
 
