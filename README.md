@@ -29,7 +29,8 @@ https://montreal.ubisoft.com/en/the-ubisoft-game-lab-competition-is-back-on/
 ## <a name="replication"></a>Innovative replication technology
 ### 8 members - In progress
 #### Tools : Unreal Engine 5, C++, Rust
-![Project image 1](https://via.placeholder.com/150x150)
+![image](https://user-images.githubusercontent.com/100521440/216908042-c25876df-75c0-40d9-b3c1-bc5977658525.png)
+
 
 This project aims to support a large number of connections in a multiplayer online game and is divided into 2 main parts and group :
  - Integration of the ECS FLECS - 5 members
