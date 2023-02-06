@@ -57,7 +57,7 @@ Klems is a multiplayer game that allows to 4 players can fight each other with a
 In this project, I was able to create mainly the weapon system or the session search system with private sessions (including passwords, filters, etc...)
 Currently, we use the null subsystem but it could use STEAM or epic game later
 
-[Link to itch.io](https://zankanotachi.itch.io/klems)
+[Link to the itch.io](https://zankanotachi.itch.io/klems)
 
 
 
@@ -78,4 +78,27 @@ The goal is to harvest plantations in order to become more powerful and beat you
 In this project, I created the system of breakable structures as well as the plantings. I could also work on the improvements of the tractors like the automatic turrets (EQS) or the missiles.
 
 [Link to our Ludum Dare page](https://ldjam.com/events/ludum-dare/52/farm-them-all-technet)
+
+
+
+---
+
+
+
+## Zizou, Queens & Piafs
+### 7 members - Finished
+#### Tools : Unreal Engine 5
+![image](https://user-images.githubusercontent.com/100521440/216898925-1b812ae2-c4f3-4ed2-86ee-513ae0e71a2a.png)
+
+This game was made during the Spring WonderJam 2022 where the theme was : **It's not a glitch, it's a feature**
+Our constraints was :  "physics-based", "versus" and "course" which was not required but we added in a game mode
+
+In this crazy game, two players must fight to knock the opponent! Indeed, each player has a stone launcher and constructions to protect himself.
+In order to make the experience more fun, we made the noises ourselves and did some cinematics. 
+
+The theme has been implemented in the construction mechanics where you can glitch the constructions together to make impressive movements
+
+In this project, I mainly created the building system
+
+[Link to the itch.io](https://bako52.itch.io/zizou-queen-piafs)
 
