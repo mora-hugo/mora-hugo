@@ -60,7 +60,7 @@ Currently, we use the null subsystem but it could use the Steam or EOS subsystem
 
 In this project, I was able to create an interaction system with the possibility to drop an item and a session search system like Klems.
 
-[Link to the itch.io](https://example.com)
+[Link to the itch.io](https://zaksley.itch.io/droid-rush)
 
 
 
