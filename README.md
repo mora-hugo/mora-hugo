@@ -33,11 +33,11 @@ https://montreal.ubisoft.com/en/the-ubisoft-game-lab-competition-is-back-on/
 
 ![image](https://user-images.githubusercontent.com/100521440/225135520-968db22f-615b-43f0-a94f-ab5483dd9b82.png)
 
-This game was made during the **WonderJam** a 2 day game jam where the theme was : **You Are Not The Main Character**. The constraints were **I Want My Cut**, **Scoring**, **Free For All**. We won the 1st place and the public prize
+This game was made during the **WonderJam** a 2 day game jam where the theme was : **You Are Not The Main Character**. The constraints were **I Want My Cut**, **Scoring**, **Free For All**. We won the 1st place and the public prize.
 
 BankRupt is an mutliplayer Arcade game where you assist Pablo, the greatest thief of Italy. Pablo  has planned the heist of a big national bank during the 6 past months and choosed 2 gang members to help him.
 
-Your goal is to sympathise with him by bringing him more item, load more cash than your parter in the van and of course escape with him
+Your goal is to sympathise with him by bringing him more item, load more cash than your parter in the van and of course escape with him.
 
 ![image](https://user-images.githubusercontent.com/100521440/225136262-8f5fb476-88b0-4a3b-b129-60a08bbb2494.png)
 
